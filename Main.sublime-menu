@@ -1,0 +1,18 @@
+[
+	{
+		"id": "selection",
+		"children":
+		[
+			{ "caption": "-", "id": "remove-regions-separator"},
+			{
+				"caption": "Remove Regions…", "id": "remove-regions", "children":
+				[
+					{ "caption": "Choose", "command": "remove_regions" },
+					{ "caption": "Odd Regions", "command": "remove_regions_odd" },
+					{ "caption": "Even Regions", "command": "remove_regions_even" },
+					{ "caption": "Again", "command": "remove_regions_again" }
+				]
+			}
+		]
+	}
+]

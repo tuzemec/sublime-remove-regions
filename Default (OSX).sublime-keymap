@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+alt+shift+f3"], "command": "remove_regions"},
+  { "keys": ["super+alt+shift+f2"], "command": "remove_regions_again"}
+]
